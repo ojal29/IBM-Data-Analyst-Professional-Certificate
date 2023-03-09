@@ -1,9 +1,5 @@
 # Python for Data Science,AI & Development <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-## About this Course
-
-Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher. This introduction to Python course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary!
-
 ## Modules
 
 ### Module 1- Python Basics:
