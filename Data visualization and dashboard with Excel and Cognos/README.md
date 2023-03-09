@@ -1,4 +1,4 @@
-# Data visualization and Dashboard with Excel and Cognos
+# Data visualization and Dashboard with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## Assignment Scenario 1- Excel
 
