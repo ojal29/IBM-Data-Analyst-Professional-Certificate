@@ -10,6 +10,15 @@ Power your data analyst career by learning the core principles of data analysis 
 - Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services
 - Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
+---
+
+## 🥇 Professional Certificate
+
+<p align="center">
+<img src="Certificates/data analyst.png" width=80% height=80%>
+
+---
+
 ## 📂 Course Structures
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
